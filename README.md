@@ -1,6 +1,6 @@
 Innlevering for Webapplikasjoner - Testing
 
-Tester
+===== Tester ==========
 Test 1:
 Sjekker om Counter-komponenten started med 0
 
