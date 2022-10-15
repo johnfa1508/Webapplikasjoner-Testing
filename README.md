@@ -1,5 +1,8 @@
 Innlevering for Webapplikasjoner - Testing
 
+Component: *Counter.jsx* <br />
+Tester: *Counter.test.jsx*  <br />
+
 ===== Tester ===== <br />
 Test 1: <br />
 Sjekker om Counter-komponenten starter med 0.
