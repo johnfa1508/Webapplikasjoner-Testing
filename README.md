@@ -1,4 +1,4 @@
-Innlevering for Webapplikasjoner - Testing
+Innlevering for Webapplikasjoner - Testing alternativ 2
 
 Component: *Counter.jsx* <br />
 Tester: *Counter.test.jsx*  <br />
