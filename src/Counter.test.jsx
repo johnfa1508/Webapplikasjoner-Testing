@@ -6,7 +6,7 @@ import App from './App';
 import {Counter} from './Counter'
 
 it('should start at 0', () => {
-    render(<Counter count={9}/>)
+    render(<Counter />)
 
     const paragraph = document.querySelector('p');
     expect(paragraph).toHaveTextContent('Count is: 0')
